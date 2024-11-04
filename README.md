@@ -1,7 +1,7 @@
-yello :3 
-my name is kris
-I <3 css, html and js 
-coding is my goofy lil fun hobby
+yello :3 <br> 
+my name is kris <br>
+I <3 css, html and js <br>
+coding is my goofy lil fun hobby<br>
 yippee!! 
 
 
