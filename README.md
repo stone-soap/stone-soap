@@ -2,12 +2,12 @@
 <h3>WELCOME!!</h3>
 
 
-  yello :3 <br>
-  my name is kris <br>
-  I <3 css, html and js <br>
-  coding is my goofy lil fun hobby <br>
-  yippee!! <br>
-  I leave rot comments in my js blehhhh :P 
+<p> yello :3  </p> <br>
+<p> my name is kris  </p><br>
+<p> I <3 css, html and js  </p><br>
+<p>  coding is my goofy lil fun hobby  </p><br>
+<p>  yippee!!  </p><br>
+<p>  I leave rot comments in my js blehhhh :P  </p>
 
 
 
