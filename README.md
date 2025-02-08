@@ -1,13 +1,13 @@
+<body>
+<h3>WELCOME!!</h3>
 
-<body style="background-color: pink;">
-  <h3 style="font-style: italic;"> WELCOME!!</h3>
 
-
-  <p>yello :3</p> 
-  <p>my name is kris</p> 
-  <p class="para">I <3 css, html and js</p> 
-  <p class="para">coding is my goofy lil fun hobby</p> 
-  <p class="para">yippee!!</p>
+  yello :3 <br>
+  my name is kris <br>
+  I <3 css, html and js <br>
+  coding is my goofy lil fun hobby <br>
+  yippee!! <br>
+  I leave rot comments in my js blehhhh :P 
 
 
 
