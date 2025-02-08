@@ -5,6 +5,7 @@
   yello :3 <br>
   my name is kris <br>
   I <3 css, html and js <br>
+  I love to base my codes around my fav games <br>
   coding is my goofy lil fun hobby <br>
   yippee!! <br>
   I leave rot comments in my js blehhhh :P 
